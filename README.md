@@ -1,2 +1,3 @@
-# ueditor-test
-spring boot ueditor 还未完结
+# springboot +uedito
+
+r下载完成后导入项目 运行即可
