@@ -82,6 +82,7 @@
         UE.getEditor('editor');
     }
     function getAllHtml() {
+        console.log(UE.getEditor('editor').getAllHtml());
         alert(UE.getEditor('editor').getAllHtml())
     }
     function getContent() {
